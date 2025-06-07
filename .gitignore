@@ -1,0 +1,12 @@
+# Ignore clasp settings
+.clasp.json
+
+# Ignore node modules
+node_modules/
+
+# Ignore system and cache files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
